@@ -1,11 +1,15 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .logo-size{
     width: 130px;
 }
 .#carouselExampleIndicators{
     color: black;
+}
+
+.car-top{
+    margin-top: 80px;
 }
 .carousel-indicators .active{
     background-image: linear-gradient(to right, orange, tomato);
